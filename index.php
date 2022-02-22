@@ -1,3 +1,3 @@
 <?php
 
-echo "hola mundo nueva version actualizada";
+echo "hola mundo";
